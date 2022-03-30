@@ -1,2 +1,0 @@
-# ISRPO
-Lab`s ISRPO
