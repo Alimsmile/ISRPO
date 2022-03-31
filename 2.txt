@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 gdsf
+||||||| 4259c04
+=======
+32ewrdgbvs
+>>>>>>> 687bf0f2adc1c605e32dd16e690eedc16a1ecfcf

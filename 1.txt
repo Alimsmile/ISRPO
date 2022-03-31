@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 sadfv
+||||||| 4259c04
+=======
+commit
+>>>>>>> 687bf0f2adc1c605e32dd16e690eedc16a1ecfcf
